@@ -5,3 +5,9 @@ body {
 border: 10px solid green;
 padding: 30px;
 }
+h1 {
+    font-family:"righteous", cursive;
+}
+p {
+    font-family: "Baloo Tamma 2", cursive;
+}
