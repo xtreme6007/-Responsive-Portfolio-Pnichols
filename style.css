@@ -1,0 +1,18 @@
+#name {
+    background-color: #59aaa5;
+    color: white;
+    margin-left: 30px;
+    margin-top: 30px;
+    
+    
+}
+a {
+    color:#e1e3e4;
+    text-decoration: none;
+}
+.navbar {
+    color:#e1e3e4;
+    text-decoration: none;
+    position:fixed;
+    
+}
