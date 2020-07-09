@@ -1,14 +1,29 @@
 body {
     margin-top:"100px";
+    background:linear-gradient(to right, orange, rgb(224, 21, 99), purple);
 }
 #about-me{
-border: 10px solid green;
+border: 10px solid;
 padding: 30px;
 margin-top: 30px;
+color:white;
+background-color:rgb(83, 82, 82);
 }
 h1 {
     font-family:"righteous", cursive;
 }
 p {
     font-family: "Baloo Tamma 2", cursive;
+}
+#portfolio {
+    border: 10px solid white;
+    background-color: rgb(83, 82, 82);;
+    color:white;
+    margin-top: 40px;
+}
+#port-border{
+    border-bottom: 10px solid white;
+}
+#projects{
+    margin-top: 40px;
 }
