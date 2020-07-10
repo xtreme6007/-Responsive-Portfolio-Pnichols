@@ -2,7 +2,10 @@ body {
     margin-top:"100px";
     background:linear-gradient(to right, orange, rgb(224, 21, 99), purple);
 }
-.container{
+#portfolio,
+#bio,
+#contact
+{
 border: 10px solid;
 padding: 30px;
 margin-top: 30px;
@@ -24,11 +27,27 @@ p {
 #port-border{
     border-bottom: 10px solid white;
 }
-#projects{
-    margin-top: 40px;
-}
+
 
 #comments {
     height: 200px
 }
 
+.proj {
+    position: relative;
+    text-align: center;
+    color: black;
+  }
+  .bottom {
+      position: absolute;
+      bottom:0px;
+      left: 15px;
+      background-color: blue;
+      width:100%;
+      text-align: center;
+      color: white;
+      opacity: 25%;
+  }
+  .bottom:hover{
+      opacity:100%;
+  }
