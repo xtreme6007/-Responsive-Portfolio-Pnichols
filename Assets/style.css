@@ -50,4 +50,5 @@ p {
   }
   .bottom:hover{
       opacity:100%;
+      background-color: rgba(128, 0, 128, 0.815);
   }
