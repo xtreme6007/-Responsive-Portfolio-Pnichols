@@ -2,7 +2,7 @@ body {
     margin-top:"100px";
     background:linear-gradient(to right, orange, rgb(224, 21, 99), purple);
 }
-#about-me{
+.container{
 border: 10px solid;
 padding: 30px;
 margin-top: 30px;
@@ -17,7 +17,7 @@ p {
 }
 #portfolio {
     border: 10px solid white;
-    background-color: rgb(83, 82, 82);;
+    background-color: rgb(83, 82, 82);
     color:white;
     margin-top: 40px;
 }
@@ -27,3 +27,8 @@ p {
 #projects{
     margin-top: 40px;
 }
+
+#comments {
+    height: 200px
+}
+
