@@ -1,2 +1,9 @@
 # -Responsive-Portfolio-Pnichols
-For this project i created everything from scratch from the nav bar to all other elements. I have a portfolio, bio, and a contact form.my potfolio has rows within columns with in rows. And everything is fully responsive and functional.
+This application is designed to show my portfolio and link to my resume and other projects ive created.
+
+Deployed application: https://xtreme6007.github.io/-Responsive-Portfolio-Pnichols/index.html
+Github repo: https://github.com/xtreme6007/-Responsive-Portfolio-Pnichols.git
+
+
+
+
