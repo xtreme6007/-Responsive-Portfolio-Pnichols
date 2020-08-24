@@ -5,6 +5,6 @@ Deployed application: https://xtreme6007.github.io/-Responsive-Portfolio-Pnichol
 
 Github repo: https://github.com/xtreme6007/-Responsive-Portfolio-Pnichols.git
 
-
+![screenshot](assets/img/readMeImg.png)
 
 
